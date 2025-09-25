@@ -1,6 +1,6 @@
 # Solving Inventory Inefficiencies Using SQL
 
-A complete end-to-end data-driven solution for inventory analytics and decision support across a multi-store retail network. This project implements a normalized SQL schema, analytical views, and a live dashboard for real-time business insights.
+A complete end-to-end data-driven solution for inventory analytics and decision support across a multi-store retail network. This project implements the normalized SQL schema, analytical views, and a live dashboard for real-time business insights.
 
 ---
 
@@ -49,6 +49,7 @@ Monitor inventory health, KPIs, and trends in real-time via our hosted dashboard
 * Live Dashboard (Simple JS hosted separately)
 
 ---
+
 
 
 
